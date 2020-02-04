@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 4,
-    "description": "Gerudoku Faithful"
-  }
+    "pack_format": 5,
+    "description": "§1GeruDoku\§2v1.15 by Syben"
+  },
+"meta":{"game_version":"1.15"}
 }
