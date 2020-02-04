@@ -6,6 +6,6 @@
 I updated it to work with 1.15 and added some tweaks.
 - - - -
 
-Download:
+__Download:__
 
-[Releases](https://github.com/Syberiyxx/gerudoku/releases/)
+__[Releases](https://github.com/Syberiyxx/gerudoku/releases/)__
