@@ -1,5 +1,5 @@
 # GeruDoku
-1.14, 1.15, 1.16 Minecraft - GeruDoku
+1.14, 1.15, 1.16 GeruDoku - Minecraft
 
 [this thread](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2895569-gerudoku-legacy-thread-1-14-coming-soon-32x) seemed like the last work on GeruDoku. 
 - - - -
