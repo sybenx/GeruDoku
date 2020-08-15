@@ -5,7 +5,7 @@
 ___
 __Download:__
 
-__[Latest version](https://github.com/Syberiyxx/GeruDoku/releases/latest)__
+# [Latest version](https://github.com/Syberiyxx/GeruDoku/releases/latest)
 
 __[All Releases](https://github.com/Syberiyxx/gerudoku/releases/)__
 ___
