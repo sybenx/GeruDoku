@@ -1,4 +1,4 @@
-![image](https://i.vgy.me/9GZFdq.png)
+![image](https://i.vgy.me/1ldVOO.png)
 
 # GeruDoku
 1.14, 1.15, 1.16 GeruDoku - Minecraft
