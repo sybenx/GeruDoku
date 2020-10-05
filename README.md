@@ -3,9 +3,7 @@
 # GeruDoku
 1.14, 1.15, 1.16 GeruDoku resource pack - Minecraft
 ___
-__Download:__
-
-# [Latest version](https://github.com/Syberiyxx/GeruDoku/releases/latest)
+# [Download Latest version](https://github.com/Syberiyxx/GeruDoku/releases/latest)
 
 __[All Releases](https://github.com/Syberiyxx/gerudoku/releases/)__
 ___
