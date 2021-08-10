@@ -1,7 +1,7 @@
 ![image](https://i.vgy.me/x96E2d.png)
 
 # GeruDoku
-1.14, 1.15, 1.16 GeruDoku resource pack - Minecraft
+Supporting 1.14, 1.15, 1.16, and 1.17.x GeruDoku resource pack - Minecraft
 ___
 # [Download the Latest Version](https://github.com/Syberiyxx/GeruDoku/releases/latest)
 
