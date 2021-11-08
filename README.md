@@ -1,4 +1,6 @@
-![image](https://i.vgy.me/x96E2d.png)
+![gerudoku new new new background](https://user-images.githubusercontent.com/2048087/140667070-5a1582c6-0aa6-47ec-b471-5b44734c69ed.png)
+
+
 
 # GeruDoku
 Supporting 1.14, 1.15, 1.16, and 1.17.x GeruDoku resource pack - Minecraft
