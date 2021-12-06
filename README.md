@@ -15,8 +15,8 @@ ___
 
 I've updated it to work with 1.14-1.18. I don't plan on creating art for anything that's missing. Feel free to contribute art on [Github](https://github.com/Syberiyxx/GeruDoku/issues/new). I'm maintaining it so that it works with the current version of Minecraft. 
 ___
-__[foundational pack: (1.13) Gerudoku Legacy](http://www.mediafire.com/file/8w1a57na5k5yyc8/%25281.13%2529_Gerudoku_Faithful_32x.zip/file)__ 
-___
 ### [Curseforge](https://www.curseforge.com/minecraft/texture-packs/gerudoku)
 ### [Planet Minecraft](https://www.planetminecraft.com/texture-pack/gerudoku-1433368/)
 ### [Minecraft Forum](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/3031460-gerudoku)
+___
+__[foundational pack: (1.13) Gerudoku Legacy](http://www.mediafire.com/file/8w1a57na5k5yyc8/%25281.13%2529_Gerudoku_Faithful_32x.zip/file)__ 
