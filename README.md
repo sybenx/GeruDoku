@@ -20,3 +20,5 @@ ___
 ### [Minecraft Forum](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/3031460-gerudoku)
 ___
 __[foundational pack: (1.13) Gerudoku Legacy](http://www.mediafire.com/file/8w1a57na5k5yyc8/%25281.13%2529_Gerudoku_Faithful_32x.zip/file)__ 
+
+Contributors: [spectra2000](https://www.minecraftforum.net/members/spectra2000), @windowslogic, @TimelapsedEon, @Jebzalis, @Goose192
