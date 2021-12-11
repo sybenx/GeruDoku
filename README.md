@@ -15,7 +15,7 @@ ___
 
 I was sent a copy of the original Shadow of Israphel map by an anonymous person. Apparently it was leaked back during the production of the series. I don't know how long this link will remain available: [Map leaked by Peva](https://www.mediafire.com/file/iwnx48tg7zyqc2o/Shadow_of_Israphel_Stolen_By_Peva_%25281%2529.zip/file). Some original textures were also sent to me: These may be useful in updating GeruDoku: [textures](https://www.mediafire.com/file/9xjcus0ylu9wyng/Textures_%25281%2529.zip/file)
 
-I've updated it to work with 1.14-1.18. I don't plan on creating art for anything that's missing. Feel free to contribute art on [Github](https://github.com/Syberiyxx/GeruDoku/issues/new). I'm maintaining it so that it works with the current version of Minecraft. 
+I've updated it to work with 1.14-1.18. I don't plan on creating art for anything that's missing. Feel free to contribute art on [Github](https://github.com/Syberiyxx/GeruDoku/issues/new). I'm maintaining it so that it works with the current version of Minecraft and stays true to the original used by the Yogscast in the [Shadow of Israphel Minecraft Series](https://www.youtube.com/watch?v=2Gi9-UZKYo4&list=PLF60520313D07F366&index=40). 
 ___
 ### [Curseforge](https://www.curseforge.com/minecraft/texture-packs/gerudoku)
 ### [Planet Minecraft](https://www.planetminecraft.com/texture-pack/gerudoku-1433368/)
