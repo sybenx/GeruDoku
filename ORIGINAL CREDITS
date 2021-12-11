@@ -1,0 +1,156 @@
+GERUDOKU
+a minecraft texture compilation
+by gerudo rivera / tombones / tom
+based on a texture pack by doku
+inspired by true events
+
+
+2/26/2010
+
+
+here are the people i stole from to do this thing ---->
+
+
+    • gerudo rivera / tombones / me - http://www.minecraftforum.net/viewtopic.php?f=25&t=77619
+various recolors & edits, 32x repeater & bed items, custom still water (edited from animal crossing), recolored mojang title, dragonquest slime skin, cute pig, compiled this crap
+
+    • doku - http://www.minecraftforum.net/viewtopic.php?f=25&t=25676
+most terrain textures, gui stuff, particles, boats & signs, almost everything else, Inspiration, Beauty, etc.
+
+    • xau - http://www.minecraftforum.net/viewtopic.php?f=25&t=46173
+HD texture fix that makes 32x32+ textures usable, get his patcher to make animated water/lava work & fix display glitches
+
+    • dustyshouri - http://www.minecraftforum.net/viewtopic.php?f=25&t=45333
+creeper skin, alt skeleton skin, cobweb, cactus, sandstone, cake, clay (edited), ore blocks (edited), cow skin, dial.png, metroid pumpkinblur overlay, several particle graphics, several 32x items/armor icons (edited), several pixelart kz.png painting selections (see pixelart credits.txt in the art folder for full artist credits)
+
+    • johnsmith - http://www.minecraftforum.net/viewtopic.php?f=25&t=29164
+skeleton & zombie skins, flowers & mushrooms (edited), spawner, custom lava (flowing & still), several paintings/decorations, wildgrass textures, foliagecolor.png (edited)
+
+    • smp - http://www.minecraftforum.net/viewtopic.php?f=25&t=25414&hilit=smp
+alt cow & alt pig skins, pigman skin, saddle, snowfall, rain, alt asian art & classic art kz.pngs (edited)
+
+    • kas - http://painterlypack.net/
+duck/chicken skins (edited), ghast skins, squid skin, alt pigman skins, bed textures (edited), several 16x items (weapons/misc)
+
+    • monsieurd - http://www.facepunch.com/member.php?87459-mr_big90
+skeptical sheep skin, pig skin (edited), minecart skin (edited), moon skin
+
+    • hozz - http://www.minecraftforum.net/viewtopic.php?f=25&t=89282
+pumpkin (edited), tnt (edited), flowered sapling, several 32x items and armor icons (edited)
+
+    • richasackboy - http://www.minecraftforum.net/viewtopic.php?f=1021&t=77619&start=1290#p2778908
+edited redstone & lightstone dust, GODLY hozz-style armor skins
+
+    • eld - http://www.minecraftforum.net/viewtopic.php?f=25&t=37621
+several 16x items (edited), alt squid skin
+
+    • glimmar - http://www.minecraftforum.net/viewtopic.php?f=25&t=48884
+several textures in kz.png (stained glass, barred window), foliagecolor.png (edited), water.png
+
+    • visigoth - http://www.minecraftforum.net/viewtopic.php?f=1021&t=77619&p=2384468#p2384468
+workbench side (edited), brick edit, several 32x item edits
+
+    • history - http://www.minecraftforum.net/viewtopic.php?f=25&t=81709
+boar skin, alt sheep/cow/zombie skins
+
+    • lilyo - http://www.minecraftforum.net/viewtopic.php?f=1021&t=77619&p=2363706#p2364163
+pineleaves, bookcase (edited), lilypad/flower
+
+    • shadounnet - http://www.minecraftforum.net/viewtopic.php?f=1021&t=136866
+dyed cloth, birchbark (edited)
+
+    • jademalo - http://www.minecraftforum.net/viewtopic.php?f=1021&t=140755
+delay/repeater block (edited), shading-compatible redstone
+
+    • agentfyre - http://www.minecraftforum.net/viewtopic.php?f=25&t=25676&start=1020#p851337
+modified doku chest, door & craftbench (edited)
+
+    • shiny - http://www.minecraftforum.net/viewtopic.php?f=25&t=68333
+tnt (edited), recordplayer/noteblock (edited)
+
+    • cng - http://www.minecraftforum.net/viewtopic.php?f=25&t=61721
+hellstone (edited), lava tiles from RMXP (just use the custom animated lava however!!)
+
+    • vilkalizer - http://www.minecraftforum.net/viewtopic.php?f=25&t=61993&p=988069
+alt suikoden art (edited), pumpkin (edited)
+
+    • ganstriker - http://www.minecraftforum.net/viewtopic.php?f=25&t=74389
+hellmud/mire & brimstone/glowstone (maybe??)
+
+    • skizot - http://www.minecraftforum.net/viewtopic.php?f=25&t=25676&start=840#p660112
+improved ores, alt signs, simplemap overlay
+
+    • danscottbrown - http://www.minecraftforum.net/viewtopic.php?f=1021&t=77619&p=2112469#p2112469
+trap.png, bleeding obsidian, dyed cloth (edited)
+
+    • runesmith - http://www.minecraftforum.net/viewtopic.php?f=25&t=103166
+several paintings/decorations, HD font
+
+    • krayloon - http://www.minecraftforum.net/viewtopic.php?f=1021&t=77619&start=990#p2507728
+edited ores
+
+    • andrewdance - http://www.minecraftforum.net/viewtopic.php?f=25&t=25676&p=1015958#p1016131
+mortar bricks (edited)
+
+    • coagulated - http://forums.somethingawful.com/showthread.php?threadid=3323710&userid=166178&perpage=40&pagenumber=2#post383658526
+skull door knocker thing (art)
+
+    • slayvus - http://www.minecraftforum.net/viewtopic.php?f=25&t=25676&start=330#p507621
+fancy metal door (edited)
+
+    • dante80 - http://www.minecraftforum.net/viewtopic.php?f=25&t=74389
+craftbench side (edited)
+
+    • ayun - http://www.minecraftforum.net/viewtopic.php?f=1021&t=108851
+pinetree bark
+
+    • riverc - http://www.minecraftforum.net/viewtopic.php?f=25&t=77619&start=120#p1295831
+treetrunk rings
+
+    • kingphantom - http://www.minecraftforum.net/viewtopic.php?f=1021&t=77619&start=450#p2071850
+lapis lazuli ore
+
+    • eric the racoon - http://www.minecraftforum.net/viewtopic.php?f=25&t=77619&start=210#p1599056
+several 32x items
+
+    • vamediah - http://www.minecraftforum.net/viewtopic.php?f=25&t=33310
+several 16x items, mojang title
+
+    • extranoise - http://www.minecraftforum.net/viewtopic.php?f=25&t=38865
+several 16x items
+
+    • fish2 - http://www.minecraftforum.net/viewtopic.php?f=1021&t=172904
+32x bone item
+
+    • asuk - http://www.minecraftforum.net/viewtopic.php?f=25&t=77619&p=1409568&hilit=asuk#p1401831
+alt minecart skin
+
+    • azaindustries - http://www.minecraftforum.net/viewtopic.php?f=25&t=81709
+moonlight shaded vignette.png (edited)
+
+    • dancrum - http://www.minecraftforum.net/viewtopic.php?f=25&t=48464
+custom still water (edited)
+
+    • ducci - http://www.minecraftforum.net/viewtopic.php?f=25&t=63159
+sun skin
+
+    • dvan - http://www.minecraftforum.net/viewtopic.php?f=25&t=21302
+clouds
+
+    • bigmacbook - http://www.minecraftforum.net/viewtopic.php?f=25&t=71579
+alt transparent grass & foliage gradients
+
+    • andenno - http://forums.somethingawful.com/showthread.php?threadid=3361373&userid=0&perpage=40&pagenumber=76#post384141591
+grasscolor.png
+
+    • ejhopkins - http://www.minecraftforum.net/viewtopic.php?f=25&t=100771
+Wild Grass mod (basis of growing grass textures)
+
+    • irukandji syndrome - http://forums.somethingawful.com/showthread.php?threadid=3361373&userid=0&perpage=40&pagenumber=43#post384003117
+alt "cute" ghast skin
+
+    • hyperlunchboxguy - http://www.minecraftforum.net/viewtopic.php?f=25&t=80837
+alt "creeper airship" ghast skin
+
+    • chronosquare - http://www.minecraftforum.net/viewtopic.php?f=25&t=20620&start=90#p608794
+alt "metroid" slime skin
