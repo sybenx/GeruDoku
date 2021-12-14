@@ -3,7 +3,7 @@
 
 
 # GeruDoku
-_Supporting 1.14, 1.15, 1.16, 1.17.x, and 1.18.x_
+_Supporting 1.14, 1.15, 1.16, 1.17, and 1.18.x_
 
 GeruDoku resource pack - Minecraft
 ___
