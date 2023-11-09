@@ -22,3 +22,5 @@ ___
 __[foundational pack: (1.13) Gerudoku Legacy](http://www.mediafire.com/file/8w1a57na5k5yyc8/%25281.13%2529_Gerudoku_Faithful_32x.zip/file)__ 
 
 Contributors: [spectra2000](https://www.minecraftforum.net/members/spectra2000), @windowslogic, @TimelapsedEon, @Jebzalis, @Goose192, @pokeblokdude, @Voidatron
+
+![Alt](https://repobeats.axiom.co/api/embed/b3327fb011085aa8a431d6cb83ad86c1e3cf0549.svg "Repobeats analytics image")
