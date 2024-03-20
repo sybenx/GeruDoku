@@ -3,7 +3,7 @@
 
 
 # [GeruDoku](https://gerudoku.com/)
-_Supporting 1.14 - 1.19.x_
+_Supporting 1.15 - 1.19.x_
 
 GeruDoku resource pack - Minecraft
 ___
