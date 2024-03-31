@@ -1,6 +1,6 @@
 ![gerudoku new new new background](https://user-images.githubusercontent.com/2048087/140667070-5a1582c6-0aa6-47ec-b471-5b44734c69ed.png)
 
-
+[![total downloads](https://img.shields.io/github/downloads/sybenx/GeruDoku/total.svg)](https://github.com/sybenx/GeruDoku/releases)
 
 # [GeruDoku](https://gerudoku.com/)
 _Supporting 1.15 - 1.19.x_
