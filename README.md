@@ -1,6 +1,9 @@
 ![gerudoku new new new background](https://user-images.githubusercontent.com/2048087/140667070-5a1582c6-0aa6-47ec-b471-5b44734c69ed.png)
 
-[![total downloads](https://img.shields.io/github/downloads/sybenx/GeruDoku/total.svg)](https://github.com/sybenx/GeruDoku/releases)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/399877?label=Curseforge%20%E2%AC%87%EF%B8%8F)](https://www.curseforge.com/minecraft/texture-packs/gerudoku)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sybenx/GeruDoku/total?label=GitHub%20%E2%AC%87%EF%B8%8F)
+](https://github.com/sybenx/GeruDoku/releases)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/gerudoku?label=Modrinth%20%E2%AC%87%EF%B8%8F)](https://modrinth.com/resourcepack/gerudoku)
 
 # [GeruDoku](https://gerudoku.com/)
 _Supporting 1.15 - 1.19.x_
